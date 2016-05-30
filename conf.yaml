@@ -1,15 +1,15 @@
 #GitBlog配置文件，使用4个空格代替Tab
 ---
 url: /
-title: Your-GitBlog
-subtitle: 自豪地采用GitBlog
-theme: simple
-enableCache: true
+title: Syncxplus
+subtitle: Docs
+theme: quest
+enableCache: false
 highlight: true
 mathjax: false
-duoshuo:
+duoshuo: syncxplus
 baiduAnalytics:
-keywords: GitBlog,博客,Markdown博客,jockchou
+keywords: GitBlog,博客,Markdown博客
 description: >
     GitBlog是一个简单易用的Markdown博客系统
 version: 2.2
