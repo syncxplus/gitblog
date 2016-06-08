@@ -3,7 +3,7 @@ author: jibo
 date: 2016-06-02
 title: CentOS 6.7 安装 Mysql 5.6.30
 tags: centos, mysql
-category: work
+category: Notes
 status: publish
 summary:
 -->

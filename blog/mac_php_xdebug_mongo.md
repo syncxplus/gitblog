@@ -3,7 +3,7 @@ author: jibo
 date: 2016-04-13
 title: Mac OS X EI Capitan 配置 xdebug, mongo
 tags: mac, php
-category: work 
+category: Notes
 status: publish
 summary:
 -->

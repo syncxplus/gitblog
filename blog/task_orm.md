@@ -2,8 +2,8 @@
 author: jibo
 date: 2016-05-28
 title: 任务 - 建立数据库表的映射对象
-tags: task, fanhua
-category: task
+tags: fanhua
+category: Task
 status: publish
 summary:
 -->

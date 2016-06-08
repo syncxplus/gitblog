@@ -3,7 +3,7 @@ author: jockchou
 head: http://pingodata.qiniudn.com/jockchou-avatar.jpg
 date: 2015-07-31
 title: 欢迎使用GitBlog
-tags: GitBlog
+tags: 
 images: http://pingodata.qiniudn.com/cube2.jpg
 category: GitBlog
 status: publish
